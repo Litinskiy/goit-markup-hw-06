@@ -772,10 +772,7 @@ color:var(--primary-white-color);
 
 }
 
-.checkbox-form{
-    margin-top: 18px;
 
-}
 
 .form-field .icon{
     position: absolute;
@@ -862,10 +859,6 @@ color:var(--primary-white-color);
     flex-direction: row;
     align-items: center;
     margin-top: 18px;
-}
-
-.hidden{
-    margin-right: 8.38px;
 }
 
 .form-textarea{
