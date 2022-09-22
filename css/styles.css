@@ -866,6 +866,7 @@ color:var(--primary-white-color);
     margin-top: 4px;
     padding: 0;
     padding-left: 16px;
+    padding-top: 12px;
     width: 448px;
     height: 120px;
     resize: none;
@@ -910,6 +911,9 @@ color:var(--primary-white-color);
 
 .form-privacy{
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .ramka{
@@ -929,11 +933,6 @@ color:var(--primary-white-color);
     border-color: var(--accent-color);
 }
 
-.form-privacy{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
 
 
 .visually-hidden {
