@@ -883,6 +883,11 @@ color:var(--primary-white-color);
     color: rgba(117, 117, 117, 0.5);
 }
 
+.textarea-flex{
+    display: flex;
+    flex-direction: column;
+}
+
 .modal-main-btn{
     width: 200px;
     height: 50px;
